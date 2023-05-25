@@ -1,0 +1,7 @@
+.navbar{
+    background-color: #8282eb73;
+}
+
+.home-col,.inset-col,.list-container{
+    margin: 50px auto;
+}
